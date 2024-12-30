@@ -21,7 +21,7 @@ I am very new to the field of cybersecurity. I plan to use this repository to li
 
 | Overthewire Wargames                                         | Writeups of each Level         |
 |-----------------------------------------------|----------------------------|
-| Bandit         | <a href="https://google.com">Detection Lab</a>|
+| Bandit         | <a href="https://github.com/llorell03/CTF-Bandit">CTF-Bandit</a>|
 | Leviathon | In progress...|
 | Krypton        | In progress...|
 | Natas      | In progress...|
