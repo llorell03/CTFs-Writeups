@@ -11,13 +11,13 @@ I am very new to the field of cybersecurity. I plan to use this repository to li
 
 | Skills                                        | Where I learned them         |
 |-----------------------------------------------|----------------------------|
-| Network Authentication through SSH & CMD         | <a href="https://google.com">Bandit-OTW</a>|
+| Network Authentication through SSH & CMD         | <a href="https://github.com/llorell03/CTF-Bandit">CTF-Bandit</a>|
 | In progress... | <a href="https://google.com">[example link]</a>|
 | In progress...         | [insert links] |
 | In progress...         | [insert links] |
 
 
-### Overthewire.org (OTW)
+### Overthewire.org
 
 | Overthewire Wargames                                         | Writeups of each Level         |
 |-----------------------------------------------|----------------------------|
